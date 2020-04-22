@@ -1,0 +1,21 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper {
+    display: flex;
+    margin: 0 auto;
+}
+
+.images {
+    display: inline-block;
+    text-align: center;
+}
+
+.images img {
+    height: 300px;
+    width: 500px;
+    padding-left: 30px;
+    padding-top: 30px;
+}
